@@ -48,11 +48,6 @@ Verdana leverages **Cardano blockchain**, **satellite data**, **AI coordination*
 5. **AI Assistant (MASUMI)**  
    Helps farmers understand rewards, and assists carbon buyers.
 
-6. **Tamper-Proof Proof (See3)**  
-   Land and tree ownership validated via images with metadata, GPS, and timestamp hashing via IPFS.
-
-7. **Privacy with zkPass**  
-   Farmers prove identity eligibility using zero-knowledge proofs—no sensitive data shared.
 
 ---
 
@@ -66,7 +61,6 @@ Verdana leverages **Cardano blockchain**, **satellite data**, **AI coordination*
 | Wallet               | Show COTREE balance and CO₂ captured            |
 | Carbon Market        | Table showing tradable tokens                   |
 | MASUMI AI            | Voice/text interface for guidance               |
-| See3 Proof System    | Simulated image upload + hash storage           |
 
 ---
 
@@ -79,8 +73,6 @@ Verdana leverages **Cardano blockchain**, **satellite data**, **AI coordination*
 | **Backend**       | Node.js / Python                         |
 | **Frontend**      | Vercel (Lucid.js or Mesh.js)             |
 | **Storage**       | IPFS (media, metadata)                   |
-| **Monitoring**    | See3 + Simulated NDVI from SentinelHub   |
-| **Privacy**       | zkPass (Zero-Knowledge Proof ID)         |
 
 ---
 
@@ -115,7 +107,7 @@ Verdana leverages **Cardano blockchain**, **satellite data**, **AI coordination*
 
 ---
 
-## 🚀 Getting Started (Hackathon Edition)
+## 🚀 Getting Started 
 
 1. Clone this repo  
 2. Run backend `Node.js` server with dummy data endpoints  
@@ -145,19 +137,11 @@ Verdana leverages **Cardano blockchain**, **satellite data**, **AI coordination*
 
 ---
 
-## 🤝 Contributors
-
-- Nebiyu Samuel
-- Hauwa Muhammad Bello
-- Armel Munyaneza.
-
----
-
 ## 📬 Contact & Community
 
 - 💌 Email: hello@verdanaprotocol.org  
 - 🗨 Discord: [Coming Soon]  
-- 🌐 Website: [verdanaprotocol.org](#)  
-- 🧪 Powered by Cardano, See3, MASUMI AI, and zkPass
+- 🌐 Website: verdana-p.vercel.app
+- 🧪 Powered by Cardano and MASUMI AI
 
 ---
