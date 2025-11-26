@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-**Verdana Protocol** is a blockchain-powered platform that transforms how environmental contributions—especially tree planting and carbon sequestration—are tracked, verified, and rewarded. 
+**Verdana Protocol** is a blockchain-powered platform that transforms how environmental contributions—especially tree planting and carbon sequestration—are tracked, verified, and rewarded.
 
 By combining remote sensing, smart contracts, native tokens, AI agents, and privacy-preserving tech, Verdana ensures fair compensation for farmers and land stewards while offering verifiable carbon credits for companies and organizations.
 
